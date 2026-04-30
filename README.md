@@ -23,8 +23,8 @@ This project utilizes a semi-standardized Ordinary Least Squares (OLS) regressio
 
 ## Methodology: Semi-Standardized Regression
 To ensure both mathematical rigor and business interpretability, this model employs a **semi-standardized approach**:
-* **Independent Variables:** Standardized (Z-scored) to eliminate scale differences (e.g., comparing raw GDP to years of schooling). This allows us to rank variables on the same scale.
-* **Dependent Variable:** Left unstandardized (raw years) to ensure coefficients remain interpretable (e.g., A 1-standard-deviation improvement in schooling yields X real-world years of life).
+* **Independent Variables:** Standardized (Z-scored) to eliminate scale differences. For example comparing raw GDP to years of schooling. This allows us to rank variables on the same scale.
+* **Dependent Variable:** Left unstandardized (raw years) to ensure coefficients remain interpretable. For example 1-standard-deviation improvement in schooling yields X real-world years of life.
 
 ## Repository Structure
 ```text
