@@ -32,6 +32,7 @@ To ensure both mathematical rigor and business interpretability, this model empl
 ├── Data/
 │   └── life_expectancy_data.csv       # Raw WHO panel data
 ├── Notebook/
-│   └── life_expectancy_analysis.ipynb # Core OLS pipeline and EDA                 
+│   └── life_expectancy_analysis.ipynb # Core OLS pipeline and EDA
+├── LICENCE                            #Code Usage Licence             
 ├── README.md                          # Project documentation
 └── requirements.txt                   # Python dependencies
