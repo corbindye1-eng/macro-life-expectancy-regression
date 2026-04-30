@@ -11,12 +11,12 @@ This project utilizes a semi-standardized Ordinary Least Squares (OLS) regressio
 
 ## Key Findings & Policy Implications
 
-**1.Developing Nations: The Survival Frontier**
+**1.Developing Nations:**
 * **Top Factors:** HIV/AIDS, Adult Mortality, and Schooling.
 * **Main Insights:** Lifespan in developing countries are mostly affected by health crises and basic infrastructure. 
 * **Policy Action:** Social capital must focus on infectious disease containment and education as the ultimate tool to improve life expectancy.
 
-**2.Developed Nations: The Lifestyle Frontier**
+**2.Developed Nations:**
 * **Top Factors:** Income Composition of Resources, Alcohol, and Thinness (1-19 Years).
 * **Main Insights:** Once basic societal needs are met, the effect of a country's raw diminishes. Longevity is rather mostly affected by wealth distributed and lifestyle choices.
 * **Policy Action:** Investment must pivot away from basic infrastructure and toward health choices, substance abuse intervention, and equitable resource allocation.
